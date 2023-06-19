@@ -1,11 +1,11 @@
-About r-gpseq
-=============
+About r-gpseq-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gpseq-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=GPseq
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gpseq-feedstock/blob/main/LICENSE.txt)
 
 Summary: Some functions for modeling sequence read counts as a generalized poisson model and to use this model for detecting differentially expressed genes in different conditions and differentially spliced exons.
 
